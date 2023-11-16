@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/auth-app-page/static/css/main.8651a44b.css",
-    "main.js": "/auth-app-page/static/js/main.c47c0202.js",
+    "main.js": "/auth-app-page/static/js/main.ebe061f7.js",
     "static/media/xmark-solid.svg": "/auth-app-page/static/media/xmark-solid.599785d3d869c73c367c5cd081d2d986.svg",
     "index.html": "/auth-app-page/index.html",
     "main.8651a44b.css.map": "/auth-app-page/static/css/main.8651a44b.css.map",
-    "main.c47c0202.js.map": "/auth-app-page/static/js/main.c47c0202.js.map"
+    "main.ebe061f7.js.map": "/auth-app-page/static/js/main.ebe061f7.js.map"
   },
   "entrypoints": [
     "static/css/main.8651a44b.css",
-    "static/js/main.c47c0202.js"
+    "static/js/main.ebe061f7.js"
   ]
 }
