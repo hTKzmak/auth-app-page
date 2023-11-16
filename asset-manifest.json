@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8651a44b.css",
+    "main.js": "/static/js/main.b368ad07.js",
+    "static/media/xmark-solid.svg": "/static/media/xmark-solid.599785d3d869c73c367c5cd081d2d986.svg",
+    "index.html": "/index.html",
+    "main.8651a44b.css.map": "/static/css/main.8651a44b.css.map",
+    "main.b368ad07.js.map": "/static/js/main.b368ad07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8651a44b.css",
+    "static/js/main.b368ad07.js"
+  ]
+}
